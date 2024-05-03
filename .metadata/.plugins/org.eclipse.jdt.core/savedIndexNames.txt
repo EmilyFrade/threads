@@ -1,0 +1,6 @@
+INDEX VERSION 1.134+/home/asaas/Documents/calculador-threads/.metadata/.plugins/org.eclipse.jdt.core
+1931156434.index
+2083775773.index
+2055540656.index
+2771816761.index
+1865797976.index

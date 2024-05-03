@@ -1,0 +1,16 @@
+package lista;
+
+public class TarefaAdicionarElemento implements Runnable {
+
+	private Lista lista;
+
+	public TarefaAdicionarElemento(Lista lista) {
+		this.lista = lista;
+	}
+
+	@Override
+	public void run() {
+
+	}
+
+}

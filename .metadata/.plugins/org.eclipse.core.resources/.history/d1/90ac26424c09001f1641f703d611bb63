@@ -1,0 +1,11 @@
+package lista;
+
+public class TarefaAdicionarElemento implements Runnable {
+
+	@Override
+	public void run() {
+		// TODO Auto-generated method stub
+
+	}
+
+}
